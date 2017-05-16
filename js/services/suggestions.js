@@ -2,22 +2,22 @@ app.factory('suggestions', [function() {
   var demoSuggestions = {
     posts: [
       {
-      title: 'Free pizza at club meetings',
+      title: 'Finish building Angular suggestion-box app',
       upvotes: 15,
-      comments: ["yaaay i'm excited", "ehhh it's whack"],
+      comments: ["yaaay i'm excited"],
       },
       {
-      title: 'End all club emails with Laffy Taffy jokes',
+      title: 'Build Heroku rake for scheduling pings to Twitter API',
       upvotes: 25,
       comments: [],
       },
       {
-      title: 'Retrofit water fountain with Gatorade',
+      title: 'Go indoor rock-climbing this Saturday',
       upvotes: 7,
       comments: [],
       },
       {
-      title: "Sing Bon Jovi's 'Living on a Prayer' halfway through meetings",
+      title: "Check out row-boating in Prospect Park",
       upvotes: 3,
       comments: [],
       },
