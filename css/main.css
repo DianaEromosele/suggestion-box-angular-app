@@ -5,6 +5,11 @@ header {
   font-family: 'Baloo', cursive;
 }
 
+.post-show {
+  /*text-align: center;*/
+  /*border: 2px solid orange;*/
+}
+
 .submit-button {
   border: 2px solid red;
 }
